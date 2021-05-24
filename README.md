@@ -2,15 +2,15 @@
 
 Hi, this is one task within the Project OxRAM-Robot-Arm: https://github.com/OxRAMSociety/OxRAM-Robot-Arm
 
-My background is materials science. I am focus on electrochemicamistry. So no robot and coding background. I will make this blog easy to read for everyone. So if I can get this work, you can get it work. :)
+My background is materials science. I am focus on electrochemicamistry. So no robot background. I will make this blog easy to read for everyone. So if I can get this work, you can get it work. :)
 
 ### Story
 
-Yeah, to increase the readability, let's start from a story. I am an materials scientist working on energy storage (Nextrode https://nextrode.web.ox.ac.uk/ ). I am familiar with beakers and lab work. My only experiences with coding is learning C++ years before in University to pass the exam... Zero experiences of Machine Learning and Robot. Happy.
+Yeah, to increase the readability, let's start from a story. I am an materials scientist working on energy storage. I am familiar with beakers and lab work. My only experiences with coding is learning C++ years before to pass the exam... Zero experiences of Machine Learning and Robot. Happy.
 
 I started to learn 3D printing in 2019 and was very lucky to get access to various of 3D printers (Form2, MarkForged M2, UltimakerS5, Photocentric, Solidscape). I spent about half a year to learn each of them from scratch. Two FMD. One SLA. One DoD. One DLP. I got familiar with different filaments, resins and print heads. Each printer has its own advantages and limitations (avoiding the word 'disadvantages'). Then I was able to fix some problems of them and do the maintainess. Also able to match the application with printers (from materials and resolution point of view). A bit proud. 
 
-Then 2020 was a bit special. I had more time to hug my computers and explore coding. From MatLab to Python, step by step, all small tasks. Thanks to 2020, I gained some programme skill. 
+Then 2020 was a bit special. I had more time to hug my computers and explore coding. From MatLab to Python, step by step, all small tasks. In 2020, I gained some programme skill. 
 
 So in the skill set pocket, there is a '3D printing'. There is a 'programming'. Let's try to find some interesting application to merger them together and learn from practice! Yeah! ROBOT!
 
