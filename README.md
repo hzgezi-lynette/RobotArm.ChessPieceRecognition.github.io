@@ -10,7 +10,7 @@ Yeah, to increase the readability, let's start from a story. I am an materials s
 
 I started to learn 3D printing in 2019 and was very lucky to get access to various of 3D printers (Form2, MarkForged M2, UltimakerS5, Photocentric, Solidscape). I spent about half a year to learn each of them from scratch. Two FMD. One SLA. One DoD. One DLP. I got familiar with different filaments, resins and print heads. Each printer has its own advantages and limitations (avoiding the word 'disadvantages'). Then I was able to fix some problems of them and do the maintainess. Also able to match the application with printers (from materials and resolution point of view). A bit proud. 
 
-Then 2020 was a bit special. I had more time to hug my computers and explore coding. From MatLab to Python, step by step, all small tasks. In 2020, I gained some programme skill. 
+Then 2020 was a bit special. I had more time to hug my computers and explore coding. From MatLab to Python, step by step, all small tasks. In 2020, I gained more programme skill. 
 
 So in the skill set pocket, there is a '3D printing'. There is a 'programming'. Let's try to find some interesting application to merger them together and learn from practice! Yeah! ROBOT!
 
@@ -130,40 +130,12 @@ Limitation:
 Lack of training images. All the images are online resources. Although I achieve a good training model with only 63 images, more training image will defenitly increase the stability and realiablity in following steps. 
 
 ### 5. Trials on Knight recognition
-To apply the previous methodology on Knight recognition, 167 images are used as training data. The results shown that it is important that the image has a high-enough resolution. Which relates to the camero and 响应速度 of the carema that attached on the robot arm. 
+To apply the previous methodology on Knight recognition, 167 images are used as training data. The results shown that it is important that the image has a high-enough resolution. Which relates to the camero and reaction spead of the carema that attached on the robot arm. 
+
+(to be continued...)
 
 
 So, here is my first success on Machine Learning. The purpose of this work is to suppor the robot arm project... 
 
 
-```markdown
 
-
-You can use the [editor on GitHub](https://github.com/hzgezi-nims/RobotArm.ChessPieceRecognition.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hzgezi-nims/RobotArm.ChessPieceRecognition.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
