@@ -133,6 +133,7 @@ Lack of training images. All the images are online resources. Although I achieve
 To apply the previous methodology on Knight recognition, 167 images are used as training data. The results shown that it is important that the image has a high-enough resolution. Which relates to the camero and reaction spead of the carema that attached on the robot arm. 
 
 (to be continued...)
+(it is just a draft for me to remember what has been done/fun. Bear with typos and etc. please...)
 
 
 So, here is my first success on Machine Learning. The purpose of this work is to suppor the robot arm project... 
